@@ -1,2 +1,1 @@
-# FastAI-Implementations
-My own implementations of Fast.ai lessons
+### These notebooks are my implementations of the ![https://course.fast.ai/] lessons by Jeremy Howard.
